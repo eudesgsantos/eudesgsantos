@@ -1,6 +1,6 @@
 # Hi There, I'm Eudes Santos 👋
 
-- 🔭 I’m currently working as a DevOps Engineer [Valcann](https://github.com/Valcann)
+- 🔭 I’m currently working as a DevOps Engineer @[Valcann](https://github.com/Valcann)
 - 🌱 I’m currently learning about Cloud Native Software Architecture
 - 📫 How to reach me: eudesgfilho@outlook.com
 - 💬 Ask me about `[AWS, Devops, Docker, Terraform]`
